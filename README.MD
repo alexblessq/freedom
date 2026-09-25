@@ -1,4 +1,1 @@
-<p align="center"><img width="256" height="256" alt="dad15b971543dacf36e19baef3d8f41d" src="https://radika1.link/2026/05/25/qr-code4c1d572b88f05bc6d.png" /></p>
-
-
-
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fraw.githubusercontent.com%2Falexblessq%2Ffreedom%2Frefs%2Fheads%2Fmain%2Fsubscription&10&0" width="256" height="256" border="0" title="QR код"></a>

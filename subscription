@@ -5,6 +5,10 @@
 #subscription-userinfo: total=0;download=0;upload=1072668082176;
 #announce: 🔄 Updated: 28.09.26
 
+vless://55bfbfcd-26e5-45bc-b39b-cfc830d7ff2f@185.155.55.10:8443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&security=reality&sid=661766b2bcef440a&sni=ee-nf.reddotcorp.org&type=tcp#🇪🇪 Tallinn • TG @RE_s_B
+vless://9a0bbb25-d8cb-4e55-a621-733edc91ed09@159.195.151.130:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zeg0VaY5acAeFTWczftk6AOmVJ2yHtIVUyQWNOkz2GE&security=reality&sid=17f8e38b3af6cd74&sni=nt-de-01.mdvcore.com&type=tcp#🇩🇪 Nuremberg • TG @RE_s_B
+vless://9a0bbb25-d8cb-4e55-a621-733edc91ed09@159.195.151.130:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=zeg0VaY5acAeFTWczftk6AOmVJ2yHtIVUyQWNOkz2GE&security=reality&sid=17f8e38b3af6cd74&sni=nt-de-01.mdvcore.com&type=tcp#🇩🇪 Nuremberg • TG @RE_s_B
+
 hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.234:9443/?mport=9443-9543&sni=hopp-swizland-new.mysynology.net#🇨🇭 Zurich • Telegram @RE_s_B
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.102:8443?sni=grape-test-italy.dynuddns.net#🇩🇪 Frankfurt am Main • Telegram @RE_s_B
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.137:8443?sni=hop-germany-september.dynuddns.com#🇨🇿 Prague • Telegram @RE_s_B

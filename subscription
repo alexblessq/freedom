@@ -8,6 +8,8 @@
 vless://55bfbfcd-26e5-45bc-b39b-cfc830d7ff2f@185.155.55.10:8443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&security=reality&sid=661766b2bcef440a&sni=ee-nf.reddotcorp.org&type=tcp#🇪🇪 Tallinn 
 vless://9a0bbb25-d8cb-4e55-a621-733edc91ed09@159.195.151.130:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zeg0VaY5acAeFTWczftk6AOmVJ2yHtIVUyQWNOkz2GE&security=reality&sid=17f8e38b3af6cd74&sni=nt-de-01.mdvcore.com&type=tcp#🇩🇪 Nuremberg 
 vless://9a0bbb25-d8cb-4e55-a621-733edc91ed09@159.195.151.130:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=zeg0VaY5acAeFTWczftk6AOmVJ2yHtIVUyQWNOkz2GE&security=reality&sid=17f8e38b3af6cd74&sni=nt-de-01.mdvcore.com&type=tcp#🇩🇪 Nuremberg 
+vless://50414e45-4c5f-5a45-5553-d5be2e48844e@104.239.72.138:443?encryption=none&fp=unsafe&host=tzzzd9exuo0s.alizarei138401.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fd5be2e48844e%2Floc-0&security=tls&sni=tzzzd9exuo0s.alizarei138401.workers.dev&type=ws#🇨🇾
+vless://50414e45-4c5f-5a45-5553-d5be2e48844e@91.193.58.210:443?encryption=none&fp=unsafe&host=tzzzd9exuo0s.alizarei138401.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fd5be2e48844e%2Floc-0&security=tls&sni=tzzzd9exuo0s.alizarei138401.workers.dev&type=ws#🇬🇧 Stretford
 
 hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.234:9443/?mport=9443-9543&sni=hopp-swizland-new.mysynology.net#🇨🇭 Zurich 
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.102:8443?sni=grape-test-italy.dynuddns.net#🇩🇪 Frankfurt am Main 

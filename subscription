@@ -5,12 +5,8 @@
 #subscription-userinfo: total=0;download=0;upload=1072668082176;
 #announce: 🔄 Updated: 28.09.26
 
-vless://fa00f42b-4502-4e9c-8db7-abb64407858d@172.64.66.1:443?type=grpc&security=tls&encryption=none&serviceName=grpc&sni=cdn133.offlinebox.net&authority=cdn133.offlinebox.net&fp=chrome#🇳🇱 Amsterdam
-vless://02441bc9-c576-42d0-9ae4-826101e3baa7@104.16.55.40:443?type=grpc&security=tls&encryption=none&serviceName=grpc&sni=cdn280.offlinebox.net&authority=cdn280.offlinebox.net&fp=chrome#🇫🇷 Paris
-vless://eecf732a-08b5-47ab-8288-378b1e94ac57@eu86.vaultberry.cloud:443?type=tcp&security=reality&fp=firefox&sni=eu86.vaultberry.cloud&pbk=zYNnGVEkMFCUR_9NcYeaXfm9A_L-PP6iG2sIIST6S0M&sid=1ed136481e0ede74#🇦🇪 Dubai
-
 hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.234:9443/?mport=9443-9543&sni=hopp-swizland-new.mysynology.net#🇨🇭 Zurich • Telegram @RE_s_B
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.101:8443?sni=grape-test-italy.dynuddns.net#🇩🇪 Frankfurt am Main • Telegram @RE_s_B
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.136:8443?sni=hop-germany-september.dynuddns.com#🇨🇿 Prague • Telegram @RE_s_B
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.136:9443/?mport=9443-9543&sni=hop-germany-september.dynuddns.com#🇨🇿 Prague • Telegram @RE_s_B
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.179:8443?sni=hopp-romania-new.roxa.org#🇩🇿 Algiers • Telegram @RE_s_B
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.102:8443?sni=grape-test-italy.dynuddns.net#🇩🇪 Frankfurt am Main • Telegram @RE_s_B
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.137:8443?sni=hop-germany-september.dynuddns.com#🇨🇿 Prague • Telegram @RE_s_B
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.137:9443/?mport=9443-9543&sni=hop-germany-september.dynuddns.com#🇨🇿 Prague • Telegram @RE_s_B
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@103.126.51.36:8443?sni=hopp-romania-new.roxa.org#🇬🇧 London • Telegram @RE_s_B

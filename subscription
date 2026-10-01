@@ -5,9 +5,6 @@
 #subscription-userinfo: total=0;download=0;upload=1072668082176;
 #announce: 🔄 Updated: 01.10.26
 
-vless://e37b223d-c602-4be9-8ce0-eca27841ec8b@50.7.220.106:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&sni=nl-ded2.gamma-kvn.com#🇳🇱 Halfweg
-vless://31d21872-883f-4632-8e54-539d2d339100@89.125.100.29:443?encryption=none&fp=random&pbk=-bdfPh42n5vMnPsrknIDPOzEOMsI1TlY9AjDPSggaR0&security=reality&sid=1c10c8c03e2f0484&sni=nl2.yabloko.top&type=tcp#🇳🇱 Amsterdam
-vless://a47843cc-7583-419e-8eab-6492fa55b5cd@185.86.13.130:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PnJR7EWijGlzVtRNpXu74L1wTQmNr369VZCc10K-rlE&security=reality&sni=legenda-bm-s1518.reverseenge.sbs&type=tcp#🇳🇱 Amsterdam
 vless://7017a1ca-7a31-463d-832e-5a7261a3dd62@162.19.230.250:443?type=tcp&encryption=none&security=reality&pbk=i1OqphFMJNL_xwV5zES4icJTPBHtSgieOt3FYns9zB0&fp=chrome&sni=www.amazon.com&sid=2b&spx=%2F#🇩🇪 Limburg an der Lahn
 
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.104:8443?sni=grape-test-italy.dynuddns.net#🇩🇪 Frankfurt am Main 

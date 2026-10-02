@@ -2,7 +2,7 @@
 #profile-update-interval: 24
 #profile-web-page-url: https://github.com/alexblessq/freedom/blob/main/README.MD
 #support-url: https://t.me/alexblessq
-#subscription-userinfo: total=1; download=1; upload=1;
+#subscription-userinfo: total=0; download=0; upload=0;
 #announce: 🔄 Updated: 02.10.26
 
 vless://37046ecc-023e-430f-bc78-2921a0724149@nl.global-cdn.org:443?type=xhttp&security=reality&fp=firefox&sni=twitch.tv&pbk=kB6YhYZbonyvtLdx3jwkzyNH9JrYhvCsdj8gcVVDHU4&sid=1bf9037908116e5e&path=/d3ef3edc63bc1b0957d8a550&mode=packet-up&extra=%7B%22xmux%22:%7B%22cMaxReuseTimes%22:0,%22maxConnections%22:1,%22hKeepAlivePeriod%22:30,%22hMaxRequestTimes%22:%22600-900%22,%22hMaxReusableSecs%22:%221800-3000%22%7D,%22headers%22:%7B%7D,%22noGRPCHeader%22:false,%22xPaddingBytes%22:%22100-1000%22,%22scMaxEachPostBytes%22:1000000,%22scMinPostsIntervalMs%22:30,%22scStreamUpServerSecs%22:%2220-80%22%7D#%F0%9F%87%B3%F0%9F%87%B1%20NL%20-%20Amsterdam

@@ -2,7 +2,7 @@
 #profile-update-interval: 24
 #profile-web-page-url: https://github.com/alexblessq/freedom/blob/main/README.MD
 #support-url: https://t.me/alexblessq
-#subscription-userinfo: total=0; download=0; upload=0;
+#subscription-userinfo: total=0; download=0; upload=0; expire=0;
 #announce: 🔄 Updated: 02.10.26
 
 vless://ecadc06b-d8f8-4702-ab14-639171aee50b@nl.arhivbox.site:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=polderlicht.xyz&pbk=0pmGuOe-i6d0fF0lI6VcZmOPLh8r0VYmfcTgq36SKlc&sid=f1b825856c33b648#%F0%9F%87%B3%F0%9F%87%B1%20%E2%9A%A1%EF%B8%8F%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B

@@ -5,10 +5,10 @@
 #support-url: https://t.me/alexblessq
 #announce: 🔄 Updated: 04.10.26
 
-vless://ecadc06b-d8f8-4702-ab14-639171aee50b@nl.arhivbox.site:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=polderlicht.xyz&pbk=0pmGuOe-i6d0fF0lI6VcZmOPLh8r0VYmfcTgq36SKlc&sid=f1b825856c33b648#test
-://autorouting/onadd/https://raw.githubusercontent.com/alexblessq/freedom/refs/heads/main/subscription
-
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.106:8443?sni=grape-test-italy.dynuddns.net#🇩🇪 Frankfurt am Main 
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.154:8443?sni=hop-germany-september.dynuddns.com#🇨🇿 Prague 
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.154:9443/?mport=9443-9543&sni=hop-germany-september.dynuddns.com#🇨🇿 Prague 
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@103.126.51.49:8443?sni=ocober-romania-new.yyuyy.com#🇩🇪 Frankfurt am Main 
+
+vless://ecadc06b-d8f8-4702-ab14-639171aee50b@nl.arhivbox.site:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=polderlicht.xyz&pbk=0pmGuOe-i6d0fF0lI6VcZmOPLh8r0VYmfcTgq36SKlc&sid=f1b825856c33b648#test
+://autorouting/onadd/https://raw.githubusercontent.com/alexblessq/freedom/refs/heads/main/subscription

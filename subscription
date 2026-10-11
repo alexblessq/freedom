@@ -24,10 +24,3 @@ vless://df275727-c25a-450b-99c3-29e4e6b0b6b9@95.133.247.98:995?encryption=none&s
 vless://d5eb7d7c-244c-46bd-87c9-ea1abfad915c@77.74.123.110:995?encryption=none&security=tls&sni=italy-pay-october.yyuyy.com&fp=chrome&type=httpupgrade&host=italy-pay-october.yyuyy.com&path=%2Fapi%2Fv1&alpn=http%2F1.1#🇩🇪 Frankfurt am Main 
 vless://1fc575d3-81bb-44d5-9efa-4131c7cc677a@103.126.51.58:995?encryption=none&security=tls&sni=ocober-romania-new.yyuyy.com&fp=chrome&type=httpupgrade&host=ocober-romania-new.yyuyy.com&path=%2Fapi%2Fv1&alpn=http%2F1.1#🇩🇪 Frankfurt am Main 
 vless://affb1e92-db55-4929-81e4-2e7e327b909b@5.254.49.34:995?encryption=none&security=tls&sni=prague.yyuyy.com&fp=chrome&type=httpupgrade&host=prague.yyuyy.com&path=%2Fapi%2Fv1&alpn=http%2F1.1#🇷🇴 Bucharest 
-vless://60e3be27-1dcf-4174-830d-a561a2b59ef7@103.246.248.240:995?encryption=none&security=tls&sni=grape-poland.bumbleshrimp.com&fp=chrome&type=httpupgrade&host=grape-poland.bumbleshrimp.com&path=%2Fapi%2Fv1&alpn=http%2F1.1#🇺🇸 Phoenix 
-vless://8dd0830f-18a7-4bfa-813d-44223c51c8b4@85.209.157.178:995?encryption=none&security=tls&sni=hopp-transit.1cooldns.com&fp=chrome&type=httpupgrade&host=hopp-transit.1cooldns.com&path=%2Fapi%2Fv1&alpn=http%2F1.1#🇺🇸 Los Angeles 
-
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@103.126.51.58:8081-8181/?insecure=1&sni=ocober-romania-new.yyuyy.com#🇩🇪 Frankfurt am Main 
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@ocober-romania-new.yyuyy.com:8081-8181/?insecure=1&sni=ocober-romania-new.yyuyy.com#🇩🇪 Frankfurt am Main 
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.42:9443-9543/?insecure=1&sni=hop-germany-september.dynuddns.com#🇩🇪 Frankfurt am Main 
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@hop-germany-september.dynuddns.com:9443-9543/?insecure=1&sni=hop-germany-september.dynuddns.com#🇩🇪 Frankfurt am Main 

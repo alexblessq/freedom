@@ -3,4 +3,4 @@
 
 
 <p align="center"> <a href="https://github.com/Happ-proxy">HAPP</a> </p>
-<p align="center"> <a href="https://example.com">Текст ссылки</a> </p>
+<p align="center"> <a href="https://github.com/INCY-DEV/incy-platforms">INCY</a> </p>

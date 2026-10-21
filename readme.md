@@ -2,5 +2,5 @@
 
 
 
-<p align="center"> [HAPP] ([https://github.com](https://github.com/Happ-proxy) </p>
-<p align="center"> [INCY] ([https://github.com](https://github.com/INCY-DEV/incy-platforms) </p>
+<p align="center"> [HAPP] (https://github.com/Happ-proxy) </p>
+<p align="center"> [INCY] (https://github.com/INCY-DEV/incy-platforms) </p>

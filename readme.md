@@ -2,5 +2,5 @@
 
 
 
-<p align="center"> <a href="https://github.com/Happ-proxy">HAPP</a> </p>
-<p align="center"> <a href="https://github.com/INCY-DEV/incy-platforms">INCY</a> </p>
+<p align="center"><a href="https://github.com/Happ-proxy">Download Happ proxy</a></p>
+<p align="center"><a href="https://github.com/INCY-DEV/incy-platforms">Download Incy proxy</a></p>

@@ -8,11 +8,11 @@ happ://routing/onadd/eyJOYW1lIjoiUm9zY29tVlBOIFdoaXRlbGlzdCIsIkdsb2JhbFByb3h5Ijo
 #subscription-userinfo: total=0; download=0; upload=1072668082176;
 #announce: 🔄 ОБНОВЛЕНО: 31.10
 
-vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@62.113.36.79:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KkZL6MfMCcvXdCBD3NwioUvpvaA9u5QH3IES59qA3mA&security=reality&sid=e766de355b0e1f2a&sni=ru-kz2.bsh-net.ru&type=raw#🇷🇺 Moscow  
-vless://a9fe0131-af95-4599-bc7f-7205479ec7c7@94.228.162.222:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&security=reality&sni=vena.solomon-planet.ru&type=tcp#🇦🇹 Vienna  
-vless://8263aa5b-601d-4e05-b61d-a70e15d97869@45.198.0.88:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=GG5vpbtQpYpZkAa3qQfLe3f9kzym3EU5t8_MYUkX_z0&security=reality&sid=458374ae&sni=pl1.edge.rbullet.net&type=tcp#🇵🇱 Warsaw  
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@201.51.4.89:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=cache-89.topp-con.xyz&type=raw#🇷🇺 Moscow  
-vless://7d43670b-6b08-45b9-8a24-8f3971abc132@31.58.234.54:443?encryption=none&flow=xtls-rprx-vision&pbk=p2QUi5Oyqwc3unA19NqgnF4h3I_SjLOkn0cUkzWCOE0&security=reality&sni=netherlands.biznes.lol&type=tcp#🇮🇩 Cikarang  
-vless://e0134f1c-8b74-4733-9c34-50cb251480c2@92.42.201.65:4443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CTiiN_SriTUj-eBv0047HpCWgLtAzWzq-gwvIWN9KUI&security=reality&sid=7f0275a4db6068fb&sni=node-slo03.rkitman.ru&type=tcp#🇸🇮 Maribor   
-vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@31.76.68.160:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0AQ3pWsOFS_OOiYZB-r05YJk-x9G_jmhUpvarpuSNjk&security=reality&sid=2bfe1a6f9ae68f6b&sni=fr.bsh-net.ru&type=tcp#🇫🇷 Paris  
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@144.31.4.234:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&security=reality&sni=direct-nl.bachidze.com&type=tcp#🇵🇱 Warsaw  
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@144.31.4.234:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&security=reality&sni=direct-nl.bachidze.com&type=tcp#🇵🇱 Warsaw
+vless://8263aa5b-601d-4e05-b61d-a70e15d97869@45.198.0.88:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=GG5vpbtQpYpZkAa3qQfLe3f9kzym3EU5t8_MYUkX_z0&security=reality&sid=458374ae&sni=pl1.edge.rbullet.net&type=tcp#🇵🇱 Warsaw
+vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@62.113.36.79:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KkZL6MfMCcvXdCBD3NwioUvpvaA9u5QH3IES59qA3mA&security=reality&sid=e766de355b0e1f2a&sni=ru-kz2.bsh-net.ru&type=raw#🇰🇿 Almaty
+vless://a9fe0131-af95-4599-bc7f-7205479ec7c7@94.228.162.222:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&security=reality&sni=vena.solomon-planet.ru&type=tcp#🇦🇹 Vienna
+vless://7d43670b-6b08-45b9-8a24-8f3971abc132@31.58.234.54:443?encryption=none&flow=xtls-rprx-vision&pbk=p2QUi5Oyqwc3unA19NqgnF4h3I_SjLOkn0cUkzWCOE0&security=reality&sni=netherlands.biznes.lol&type=tcp#🇳🇱 Amsterdam
+vless://e0134f1c-8b74-4733-9c34-50cb251480c2@92.42.201.65:4443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CTiiN_SriTUj-eBv0047HpCWgLtAzWzq-gwvIWN9KUI&security=reality&sid=7f0275a4db6068fb&sni=node-slo03.rkitman.ru&type=tcp#🇸🇮 Maribor
+vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@31.76.68.160:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0AQ3pWsOFS_OOiYZB-r05YJk-x9G_jmhUpvarpuSNjk&security=reality&sid=2bfe1a6f9ae68f6b&sni=fr.bsh-net.ru&type=tcp#🇩🇪 Frankfurt am Main
+

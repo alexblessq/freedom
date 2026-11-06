@@ -8,8 +8,8 @@ happ://routing/onadd/eyJOYW1lIjoiUm9zY29tVlBOIFdoaXRlbGlzdCIsIkdsb2JhbFByb3h5Ijo
 #subscription-userinfo: total=0; download=0; upload=1072668082176;
 #announce: 🔄 Обновлено: 05.11
 
-vless://e84c8c46-1c6c-4738-8493-f44d6e8d2007@191.217.231.47:8444?encryption=none&security=reality&pbk=G-_sTnD1wqM0fQNtO5-MihhC2XkI-wtYbmuzGZz0vHY&sid=6c1136e3fdbdbb45&sni=www.samsung.com&fp=chrome&type=xhttp&path=%2Fxhttp1&host=www.samsung.com#🇩🇪 Frankfurt am Main
-vless://e84c8c46-1c6c-4738-8493-f44d6e8d2007@191.217.231.47:443?encryption=none&security=reality&pbk=uLjAJSj4vsXrf40v5hSUiF2IOLe3yV4qxcM2wYHmEHM&sid=c071b428373339c1&sni=www.samsung.com&fp=chrome&type=xhttp&path=%2Fxhttp1&host=www.samsung.com#🇳🇱 Amsterdam
-vless://e84c8c46-1c6c-4738-8493-f44d6e8d2007@191.217.231.21:8447?encryption=none&security=reality&pbk=3AF8XXtZ27wzR8qnTbpXN7QGTpk-8NrV_J-qDqjoBEo&sid=34ac9f582457930a&sni=www.google.com&fp=chrome&type=xhttp&path=%2Fxhttp1&host=www.google.com#🇫🇮 Helsinki
-vless://e84c8c46-1c6c-4738-8493-f44d6e8d2007@191.217.231.90:8447?encryption=none&security=reality&pbk=uYn21e02ZyiotoxrAzj0nMqM8VM70WBkoqOHc6aAk2A&sid=6c94385a8a55548b&sni=dl.google.com&fp=chrome&type=xhttp&path=%2Fxhttp1&host=dl.google.com#🇪🇪 Tallinn
-vless://e84c8c46-1c6c-4738-8493-f44d6e8d2007@191.217.231.90:8449?encryption=none&security=reality&pbk=khKn1XOIDOWKNZdO5Yvg3q6rMQbVHdkbeBuT9rvFCQ0&sid=7cf344e48d98b2c0&sni=addons.mozilla.org&fp=chrome&type=xhttp&path=%2Fxhttp1&host=addons.mozilla.org# 🇵🇱 Warsaw
+vless://81d41794-9901-47fb-8959-dff95ebc1d4e@191.217.231.47:8444?encryption=none&security=reality&pbk=G-_sTnD1wqM0fQNtO5-MihhC2XkI-wtYbmuzGZz0vHY&sid=6c1136e3fdbdbb45&sni=www.samsung.com&fp=chrome&type=xhttp&path=%2Fxhttp1&host=www.samsung.com#🇩🇪 Frankfurt am Main
+vless://81d41794-9901-47fb-8959-dff95ebc1d4e@191.217.231.47:443?encryption=none&security=reality&pbk=uLjAJSj4vsXrf40v5hSUiF2IOLe3yV4qxcM2wYHmEHM&sid=c071b428373339c1&sni=www.samsung.com&fp=chrome&type=xhttp&path=%2Fxhttp1&host=www.samsung.com#🇳🇱 Amsterdam
+vless://81d41794-9901-47fb-8959-dff95ebc1d4e@191.217.231.21:8447?encryption=none&security=reality&pbk=3AF8XXtZ27wzR8qnTbpXN7QGTpk-8NrV_J-qDqjoBEo&sid=34ac9f582457930a&sni=www.google.com&fp=chrome&type=xhttp&path=%2Fxhttp1&host=www.google.com#🇫🇮 Helsinki 
+vless://81d41794-9901-47fb-8959-dff95ebc1d4e@191.217.231.90:8447?encryption=none&security=reality&pbk=uYn21e02ZyiotoxrAzj0nMqM8VM70WBkoqOHc6aAk2A&sid=6c94385a8a55548b&sni=dl.google.com&fp=chrome&type=xhttp&path=%2Fxhttp1&host=dl.google.com#🇪🇪 Tallinn 
+vless://81d41794-9901-47fb-8959-dff95ebc1d4e@191.217.231.90:8449?encryption=none&security=reality&pbk=khKn1XOIDOWKNZdO5Yvg3q6rMQbVHdkbeBuT9rvFCQ0&sid=7cf344e48d98b2c0&sni=addons.mozilla.org&fp=chrome&type=xhttp&path=%2Fxhttp1&host=addons.mozilla.org#🇵🇱 Warsaw 

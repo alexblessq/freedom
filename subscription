@@ -8,6 +8,7 @@ happ://routing/onadd/eyJOYW1lIjoiUm9zY29tVlBOIFdoaXRlbGlzdCIsIkdsb2JhbFByb3h5Ijo
 #subscription-userinfo: total=0; download=0; upload=1072668082176;
 #announce: 🔄 Обновлено: 15.11
 
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@50.7.95.219:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UAry1N68zKkbO0MpIqAXmxfxg1Y9rvkiBjexZErRJwY&security=reality&sid=6a30cf54&sni=price.goonars.com&spx=%2F&type=raw#🇳🇱Amsterdam
 vless://f863bc2a-daf7-4c9c-8070-b780ddbaddcb@185.18.250.2:443?alpn=http%2F1.1&ech=https%3A%2F%2Fdns.digitalsize.net%2Fdns-query&encryption=none&fp=unsafe&path=%2F6q9UJmS2CckAEFb1%3Fed%3D2560&security=tls&sni=worker2.peramip455.workers.dev&type=ws#🇷🇺Russia
 vless://5c9e3f77-5bde-4732-af3c-6a5d3ecee37a@5.175.141.15:443?alpn=http%2F1.1&ech=https%3A%2F%2Fdns.digitalsize.net%2Fdns-query&encryption=none&fp=unsafe&path=%2F6q9UJmS2CckAEFb1%3Fed%3D2560&security=tls&sni=worker3.wewotes286.workers.dev&type=ws#🇷🇺Russia
 vless://5c9e3f77-5bde-4732-af3c-6a5d3ecee37a@31.43.179.0:443?alpn=http%2F1.1&encryption=none&fp=unsafe&path=%2F6q9UJmS2CckAEFb1%3Fed%3D2560&security=tls&sni=worker3.wewotes286.workers.dev&type=ws#🇷🇺Russia

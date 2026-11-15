@@ -6,21 +6,6 @@ happ://routing/onadd/eyJOYW1lIjoiUm9zY29tVlBOIFdoaXRlbGlzdCIsIkdsb2JhbFByb3h5Ijo
 #profile-web-page-url: https://github.com/alexblessq/freedom/blob/main/readme.md
 #support-url: https://github.com/alexblessq/freedom/blob/main/readme.md
 #subscription-userinfo: total=0; download=0; upload=1072668082176;
-#announce: 🔄 Обновлено: 12.11
+#announce: 🔄 Обновлено: 15.11
 
-vless://05ce4320-34c5-4744-a09a-32170f45894e@20.218.124.98:2083?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef&type=tcp#🇩🇪 Frankfurt am Main  
-vless://05ce4320-34c5-4744-a09a-32170f45894e@20.218.124.98:2086?security=reality&encryption=none&flow=xtls-rprx-vision&sni=cloudflare-dns.com&fp=chrome&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef&type=tcp#🇩🇪 Frankfurt am Main  
-vless://05ce4320-34c5-4744-a09a-32170f45894e@20.218.124.98:2087?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef&type=tcp#🇩🇪 Frankfurt am Main  
 vless://6a541b61-0ecc-466b-aeb7-24730a8d6502@185.204.171.14:2083?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=idVWZT3iy4hATAXj64DFQlPJGVKxZ6QXL1km2PQtqx4&sid=0123456789abcdef&type=tcp#🇩🇪 Frankfurt am Main  
-vless://3f5ada62-8f8b-46ee-8870-d876618402bd@20.107.191.186:2083?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef&type=tcp#🇮🇪 Dublin  
-vless://3f5ada62-8f8b-46ee-8870-d876618402bd@20.107.191.186:2086?security=reality&encryption=none&flow=xtls-rprx-vision&sni=cloudflare-dns.com&fp=chrome&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef&type=tcp#🇮🇪 Dublin  
-vless://3f5ada62-8f8b-46ee-8870-d876618402bd@20.107.191.186:2087?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef&type=tcp#🇮🇪 Dublin  
-vless://2b9d8781-2229-4379-8527-e260e4647f39@20.100.179.214:2083?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef&type=tcp#🇳🇴 Lorenskog  
-vless://2b9d8781-2229-4379-8527-e260e4647f39@20.100.179.214:2086?security=reality&encryption=none&flow=xtls-rprx-vision&sni=cloudflare-dns.com&fp=chrome&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef&type=tcp#🇳🇴 Lorenskog  
-vless://2b9d8781-2229-4379-8527-e260e4647f39@20.100.179.214:2087?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef&type=tcp#🇳🇴 Lorenskog   
-vless://93c84787-6a81-48bd-929b-bb07b35b24cd@20.91.185.64:2083?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef&type=tcp#🇸🇪 Gävle  
-vless://93c84787-6a81-48bd-929b-bb07b35b24cd@20.91.185.64:2086?security=reality&encryption=none&flow=xtls-rprx-vision&sni=cloudflare-dns.com&fp=chrome&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef&type=tcp#🇸🇪 Gävle  
-vless://93c84787-6a81-48bd-929b-bb07b35b24cd@20.91.185.64:2087?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef&type=tcp#🇸🇪 Gävle  
-vless://cbcdd7df-5148-42ad-98f4-1617d1a5a43d@172.166.113.27:2083?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef&type=tcp#🇬🇧 City of London  
-vless://cbcdd7df-5148-42ad-98f4-1617d1a5a43d@172.166.113.27:2086?security=reality&encryption=none&flow=xtls-rprx-vision&sni=cloudflare-dns.com&fp=chrome&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef&type=tcp#🇬🇧 City of London  
-vless://cbcdd7df-5148-42ad-98f4-1617d1a5a43d@172.166.113.27:2087?security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&sid=0123456789abcdef&type=tcp#🇬🇧 City of London  

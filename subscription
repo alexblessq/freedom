@@ -8,12 +8,10 @@ happ://routing/onadd/eyJOYW1lIjoiUm9zY29tVlBOIFdoaXRlbGlzdCIsIkdsb2JhbFByb3h5Ijo
 #subscription-userinfo: total=0; download=0; upload=1072668082176;
 #announce: 🔄 Обновлено: 16.11 ❗ Некоторые приложения на русских серверах могут не работать ❗
 
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@85.14.243.91:8443?encryption=none&mode=gun&pbk=dPnrpjfG_vzjH20n0W7qNbWB5-dMxNSjeo2BpIsrXAE&security=reality&serviceName=workspace6c036b2914c6&sid=bca958b54462eba5&sni=edge-7577e858223c.eu-cdn539.com&type=grpc#🇩🇪 Mönchengladbach
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@50.7.95.230:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=gJoMHh97teLxW92Z_3DI8qdSulqBlb9sW6mthYPEEBk&security=reality&sid=d889ac17&sni=main.jarbook.net&type=tcp#🇳🇱 Amsterdam
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@5.253.86.3:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=51ZCyVOxvcD_smARtd9mV-3Rh_WurOzMGRFxk9u2Kgo&security=reality&sid=fa1754221e4c5f9e&sni=nl3.gofizz.in&spx=%2FHesarWeb&type=tcp#🇳🇱 Lelystad
-
-vless://5c9e3f77-5bde-4732-af3c-6a5d3ecee37a@31.43.179.0:443?alpn=http%2F1.1&encryption=none&fp=unsafe&path=%2F6q9UJmS2CckAEFb1%3Fed%3D2560&security=tls&sni=worker3.wewotes286.workers.dev&type=ws#🇷🇺 Domodedovo
-vless://33ad0b97-01c5-48b0-8530-440b90e756aa@185.18.250.2:443?alpn=http%2F1.1&encryption=none&fp=unsafe&path=%2FZSwEHuFy9lC7zgDp%3Fed%3D2560&security=tls&sni=worker3.faniw6556.workers.dev&type=ws#🇷🇺 Domodedovo 
-vless://1058c340-5e14-45ff-bd10-ebd64a225be2@185.18.250.2:443?alpn=http%2F1.1&encryption=none&fp=unsafe&path=%2FZSwEHuFy9lC7zgDp%3Fed%3D2560&security=tls&sni=worker3.nojisoj4574.workers.dev&type=ws#🇷🇺 Domodedovo
-vless://af51de25-32ab-49d1-b3b1-8e22ae93b2a2@31.43.179.0:443?alpn=http%2F1.1&encryption=none&fp=unsafe&path=%2F6q9UJmS2CckAEFb1%3Fed%3D2560&security=tls&sni=worker3.yeliko7287.workers.dev&type=ws#🇷🇺 Domodedovo
-vless://eac64826-e281-49c2-88bf-cd0078675b09@8.6.112.0:443?alpn=http%2F1.1&encryption=none&fp=unsafe&path=%2FNu2VsE5wrioADb0C%3Fed%3D2560&security=tls&sni=worker3.cexewob845.workers.dev&type=ws#🇷🇺 Domodedovo
+vless://af51de25-32ab-49d1-b3b1-8e22ae93b2a2@31.43.179.0:443?alpn=http%2F1.1&encryption=none&fp=unsafe&path=%2F6q9UJmS2CckAEFb1%3Fed%3D2560&security=tls&sni=worker3.yeliko7287.workers.dev&type=ws#🇷🇺 Russia
+vless://68a0181c-8264-4e10-bccc-a4771036ad44@45.135.235.255:443?alpn=http%2F1.1&encryption=none&fp=unsafe&path=%2FFVY1GD1e5FxKmN08%3Fed%3D2560&security=tls&sni=worker3.fonep7558.workers.dev&type=ws#🇷🇺 Russia
+vless://536b3bb6-5c30-4db6-9036-eda873c01767@46.202.30.193:443?alpn=http%2F1.1&encryption=none&fp=unsafe&path=%2FPRqCczzbfWhvkKK6%3Fed%3D2560&security=tls&sni=worker3.tacemor185.workers.dev&type=ws#🇷🇺 Russia
+vless://a299e0aa-1613-476b-b488-8ee8337d9ae1@45.135.235.255:443?alpn=http%2F1.1&encryption=none&fp=unsafe&path=%2FHGCmKaXbRNqpZqMv%3Fed%3D2560&security=tls&sni=worker3.voxili9688.workers.dev&type=ws#🇷🇺 Russia
+vless://a3942a63-819f-4a68-bbbd-ffccedb0abd9@45.135.235.255:443?alpn=http%2F1.1&encryption=none&fp=unsafe&path=%2FNxEvrDKOG7eWhZ20%3Fed%3D2560&security=tls&sni=worker3.wimat94374.workers.dev&type=ws#🇷🇺 Russia
+vless://68a0181c-8264-4e10-bccc-a4771036ad44@45.135.235.255:443?alpn=http%2F1.1&encryption=none&fp=unsafe&host=worker3.fonep7558.workers.dev&path=%2FFVY1GD1e5FxKmN08&security=tls&sni=worker3.fonep7558.workers.dev&type=ws#🇷🇺 Russia
+vless://320d3e8e-59d7-4389-90cf-da4a9be248bf@5.175.141.15:443?alpn=http%2F1.1&ech=https%3A%2F%2Fdns.digitalsize.net%2Fdns-query&encryption=none&fp=unsafe&path=%2FgkOut3g6sZDs9hSO%3Fed%3D2560&security=tls&sni=worker3.gogimi1942.workers.dev&type=ws#🇷🇺 Russia

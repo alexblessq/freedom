@@ -9,10 +9,12 @@ happ://routing/onadd/eyJOYW1lIjoiUm9zY29tVlBOIFdoaXRlbGlzdCIsIkdsb2JhbFByb3h5Ijo
 #announce: 🔄 Обновлено: 18.11
 
 vless://4cf2635f-400a-4556-bb66-645990da5fe1@136.148.219.87:443?encryption=none&flow=xtls-rprx-vision-udp443&fp=firefox&pbk=W_Gh2SipeptUT6nDrxghHTWJRx4Je0A0VWEa3GZZmDc&security=reality&sni=batista.chickenkiller.com&type=tcp#🇸🇪 Stockholm
-vless://9ef01896-2572-46be-8fcf-d5b7997c1cdb@85.239.146.103:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vEyGN4xj-OQo0U1oUv80ip48iy_unlJmQW9QXVOK_3g&security=reality&sid=5ce05d738d2b3623&sni=de157.maxleshax.icu&type=tcp#🇩🇪 Frankfurt am Main
+vless://a61de2c2-a7ab-4d1a-b6ff-a51424ab01f1@104.167.24.169:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&security=reality&sni=avoro104.maxleshax.icu&type=tcp#🇩🇪 Frankfurt am Main
 
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@150.251.142.34:8443?sni=speedtestmark.com#🇳🇱 Oude Meer
-
+hysteria2://b384d216-9efa-4fd0-a5ef-bd3c37475e4d@203.14.32.181:443?alpn=h3&fp=chrome&sni=de.anonch.net#🇩🇪 Frankfurt am Main
+hysteria2://b384d216-9efa-4fd0-a5ef-bd3c37475e4d@103.246.248.147:443?alpn=h3&sni=pl.anonch.org#🇵🇱 Warsaw
+hysteria2://b384d216-9efa-4fd0-a5ef-bd3c37475e4d@89.41.181.197:443?alpn=h3&fp=chrome&sni=nl.anonch.net#🇳🇱 Amsterdam
+hysteria2://bdbe16d5-5aa8-4f18-bdfe-0fb086cebb8b@217.78.237.118:30087?alpn=h3&sni=assets1df0.cdn.tv-av.fun#🇪🇸 Madrid
 
 vless://af51de25-32ab-49d1-b3b1-8e22ae93b2a2@31.43.179.0:443?alpn=http%2F1.1&encryption=none&fp=unsafe&path=%2F6q9UJmS2CckAEFb1%3Fed%3D2560&security=tls&sni=worker3.yeliko7287.workers.dev&type=ws#🇷🇺 Russia
 vless://536b3bb6-5c30-4db6-9036-eda873c01767@46.202.30.193:443?alpn=http%2F1.1&encryption=none&fp=unsafe&path=%2FPRqCczzbfWhvkKK6%3Fed%3D2560&security=tls&sni=worker3.tacemor185.workers.dev&type=ws#🇷🇺 Russia

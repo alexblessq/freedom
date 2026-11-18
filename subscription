@@ -8,7 +8,7 @@ happ://routing/onadd/eyJOYW1lIjoiUm9zY29tVlBOIFdoaXRlbGlzdCIsIkdsb2JhbFByb3h5Ijo
 #subscription-userinfo: total=0; download=0; upload=1072668082176;
 #announce: 🔄 Обновлено: 18.11
 
-vless://4cf2635f-400a-4556-bb66-645990da5fe1@136.148.219.87:443?encryption=none&flow=xtls-rprx-vision-udp443&fp=firefox&pbk=W_Gh2SipeptUT6nDrxghHTWJRx4Je0A0VWEa3GZZmDc&security=reality&sni=batista.chickenkiller.com&type=tcp#🇸🇪 Stockholm
+
 vless://a61de2c2-a7ab-4d1a-b6ff-a51424ab01f1@104.167.24.169:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&security=reality&sni=avoro104.maxleshax.icu&type=tcp#🇩🇪 Frankfurt am Main
 
 hysteria2://b384d216-9efa-4fd0-a5ef-bd3c37475e4d@203.14.32.181:443?alpn=h3&fp=chrome&sni=de.anonch.net#🇩🇪 Frankfurt am Main

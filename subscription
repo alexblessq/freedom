@@ -9,12 +9,11 @@ happ://routing/onadd/eyJOYW1lIjoiUm9zY29tVlBOIFdoaXRlbGlzdCIsIkdsb2JhbFByb3h5Ijo
 #announce: 🔄 Обновлено: 19.11
 
 
-vless://9a9f167d-b461-466f-be50-f0ffd598a6f8@45.133.251.208:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=lY9sPrXzj3Dlsj6JTP5UolK1RmIAlstuAy3dBJ97ag0&security=reality&sni=gembeforeshoping.space&type=tcp#🇩🇪 Frankfurt am Main
-vless://0685f27d-4590-4000-80fa-dedfa2057a6b@217.60.18.168:2053?encryption=none&flow=xtls-rprx-vision-udp443&fp=firefox&pbk=uc610xVav3aFo020WeOeitgSp-_hecAeCDYRBuNa7Sg&security=reality&sid=5a8e1a04f3d92b67&sni=tabletestgame.mooo.com&type=tcp#🇳🇱 Amsterdam
 
-hysteria2://ccb8ff48-3934-4250-b4ec-bb76b95d154f@37.143.129.238:443?alpn=h3&sni=37.143.129.238&vcn=fih1.fox-lisa.ru#🇫🇮 Helsinki
-hysteria2://ca60984f-b1f0-4073-bd33-4c75168f749a@31.59.169.225:443?alpn=h3&sni=ge-beer-1.fantoff.online#🇮🇩 Jakarta
 
-vless://af51de25-32ab-49d1-b3b1-8e22ae93b2a2@31.43.179.0:443?alpn=http%2F1.1&encryption=none&fp=unsafe&path=%2F6q9UJmS2CckAEFb1%3Fed%3D2560&security=tls&sni=worker3.yeliko7287.workers.dev&type=ws#🇷🇺 Russia
-vless://a299e0aa-1613-476b-b488-8ee8337d9ae1@45.135.235.255:443?alpn=http%2F1.1&encryption=none&fp=unsafe&path=%2FHGCmKaXbRNqpZqMv%3Fed%3D2560&security=tls&sni=worker3.voxili9688.workers.dev&type=ws#🇷🇺 Russia
-vless://a3942a63-819f-4a68-bbbd-ffccedb0abd9@45.135.235.255:443?alpn=http%2F1.1&encryption=none&fp=unsafe&path=%2FNxEvrDKOG7eWhZ20%3Fed%3D2560&security=tls&sni=worker3.wimat94374.workers.dev&type=ws#🇷🇺 Russia
+hysteria2://ca60984f-b1f0-4073-bd33-4c75168f749a@82.40.63.138:443?alpn=h3&sni=kraw-pl-4.fantoff.online#🇵🇱 Warsaw
+
+vless://87f11bac-7d5a-408b-877b-5436bf9a1485@104.19.45.16:2096?encryption=none&fp=chrome&host=sayna-marazazian-try3324xyzcvbsfdg.pages.dev&path=%2Fnovels%2Ftorrent%2Fteacher%2Fpasargadco&security=tls&sni=sayna-marazazian-try3324xyzcvbsfdg.pages.dev&type=ws#🇸🇪 Steninge
+vless://87f11bac-7d5a-408b-877b-5436bf9a1485@104.19.49.158:2096?encryption=none&fp=chrome&host=sayna-marazazian-try3324xyzcvbsfdg.pages.dev&path=%2Farticle%2Fpasargadco&security=tls&sni=sayna-marazazian-try3324xyzcvbsfdg.pages.dev&type=ws#🇸🇪 Steninge
+vless://87f11bac-7d5a-408b-877b-5436bf9a1485@104.26.12.83:8443?encryption=none&fp=chrome&host=sayna-marazazian-try3324xyzcvbsfdg.pages.dev&path=%2Fsetting%2Fads%2Fpasargadco&security=tls&sni=sayna-marazazian-try3324xyzcvbsfdg.pages.dev&type=ws#🇩🇪 Dreieich
+vless://87f11bac-7d5a-408b-877b-5436bf9a1485@162.159.153.197:2096?encryption=none&fp=chrome&host=sayna-marazazian-try3324xyzcvbsfdg.pages.dev&path=%2Fvod%2Fpasargadco&security=tls&sni=sayna-marazazian-try3324xyzcvbsfdg.pages.dev&type=ws#🇷🇺 Russia

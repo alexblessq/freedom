@@ -9,8 +9,8 @@ happ://routing/onadd/eyJOYW1lIjoiUm9zY29tVlBOIFdoaXRlbGlzdCIsIkdsb2JhbFByb3h5Ijo
 #announce: 🔄 Обновлено: 21.11
 
 vless://be139ef0-3768-409c-82d9-d759dbcb4458@50.7.221.219:443?encryption=none&mode=gun&pbk=8ENbaQRCWZk-wewSrdHq1_rVjJY4CrxqXUo_5vZNdi4&security=reality&serviceName=cdnsync.v2.Transfer&sid=b2b44805&sni=xn--80abgtcaqw1f.xn----9sbekcigdcaa6cd7cafr7e.xn--p1ai&type=grpc#Unknown
-vless://7316d881-eeec-429b-94f1-07585747f7c8@45.155.204.12:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=D0VJmmIifi3bUyMzYYNwEU0X28N4JK-jDAmCCf8hZEo&security=reality&sid=26e2b503fada0e3a&sni=web.belka.tv&type=tcp#Unknown
-vless://37fc45b0-be4d-4920-a0f7-7389e406f5f3@83.141.93.80:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=TiKF_6UGMtWhgDiAGLsAtyYwyv-s3HxG6F0P9ltyf1U&security=reality&sid=8888265ef63fba6d&sni=newerson.online&type=raw#Unknown
 vless://2e80121c-31b2-423e-914f-f2a365aedfa1@217.60.19.173:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vNAFIncKncB2sVwrnakzopX-aUC5yzlLnwMmvim39zQ&security=reality&sid=b77fbbb5f86f53d2&sni=plos.growmart.site&type=tcp#Unknown
 vless://ffb2c504-2c6c-49f3-b4bd-9fd3ff6ce454@185.178.208.167:443?encryption=none&fp=firefox&host=tochkacdn.top&insecure=1&path=%2Fstatic%2Ftelemetry%2F3c9aaef00005%2F&security=tls&sni=unlik.club&type=ws#Unknown 
 vless://ffb2c504-2c6c-49f3-b4bd-9fd3ff6ce454@185.178.208.167:443?encryption=none&fp=chrome&host=tochkacdn.top&path=%2Fstatic%2Ftelemetry%2F3c9aaef00005%2F&security=tls&sni=unlik.club&type=ws#Unknown
+
+hysteria2://7316d881-eeec-429b-94f1-07585747f7c8@155.212.218.82:443?sni=welcometorussia.belka.tv#%F0%9F%87%B7%F0%9F%87%BA+St+Petersburg+%E2%

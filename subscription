@@ -13,4 +13,5 @@ vless://2e80121c-31b2-423e-914f-f2a365aedfa1@217.60.19.173:443?encryption=none&f
 vless://ffb2c504-2c6c-49f3-b4bd-9fd3ff6ce454@185.178.208.167:443?encryption=none&fp=firefox&host=tochkacdn.top&insecure=1&path=%2Fstatic%2Ftelemetry%2F3c9aaef00005%2F&security=tls&sni=unlik.club&type=ws#Unknown 
 vless://ffb2c504-2c6c-49f3-b4bd-9fd3ff6ce454@185.178.208.167:443?encryption=none&fp=chrome&host=tochkacdn.top&path=%2Fstatic%2Ftelemetry%2F3c9aaef00005%2F&security=tls&sni=unlik.club&type=ws#Unknown
 
-hysteria2://7316d881-eeec-429b-94f1-07585747f7c8@155.212.218.82:443?sni=welcometorussia.belka.tv#%F0%9F%87%B7%F0%9F%87%BA+St+Petersburg+%E2%
+hysteria2://7316d881-eeec-429b-94f1-07585747f7c8@155.212.218.82:443?sni=welcometorussia.belka.tv#%F0%9F%87%B7%F0%9F%87%BA+St+Petersburg+%E2%80%
+vless://623e66a7-25ee-4624-a63c-9513d620a287@48.102.206.180:9443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=po2.hys.braidx.tech&pbk=V-cWjK_GZ0PTJ3wnUHgwey_dNWI6_QNXsC9CdmA0mVI&sid=408c85938839e89f#Unknown+%E2%80%

@@ -6,13 +6,15 @@ happ://routing/onadd/eyJOYW1lIjoiUm9zY29tVlBOIFdoaXRlbGlzdCIsIkdsb2JhbFByb3h5Ijo
 #profile-web-page-url: https://github.com/alexblessq/freedom/blob/main/readme.md
 #support-url: https://github.com/alexblessq/freedom/blob/main/readme.md
 #subscription-userinfo: total=0; download=0; upload=1072668082176;
-#announce: 🔄 Обновлено: 20.11
+#announce: 🔄 Обновлено: 21.11
 
-hysteria2://9e9d12c4-9836-4714-9948-e99fd8944283@111.88.128.18:8449?alpn=h3&fp=firefox&sni=hibruder4.liberty-nodes.online#Unknown 
-vless://c1d7617a-7559-45c9-9d07-a62c5ba8cb36@188.130.209.225:444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=P7F65GjTQGZju-N8CVHtlKNaWebVe_76Xt7Lm00RuH0&security=reality&sni=vextor.win&type=tcp#Unknown
-
-hysteria2://8da0029e-6ff3-49cc-8b4d-120432cc6414@94.183.195.183:8453?alpn=h3&sni=eu71.cdn77.icu#Unknown 
-vless://e7678bcb-be0c-4275-aa1d-6298324a003e@185.18.250.2:443?encryption=none&fp=firefox&host=worker3.cidayo573832.workers.dev&path=%2FZSwEHuFy9lC7zgDp&security=tls&sni=worker3.cidayo573832.workers.dev&type=ws#Unknown
-
-vless://b392873f-82a2-01f4-ac46-303dd8d4f388@88.210.62.122:443?encryption=none&flow=xtls-rprx-vision&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22interval%22%3A%2210-20%22%2C%22length%22%3A%2210-20%22%2C%22packets%22%3A%22tlshello%22%7D%7D%5D%2C%22udp%22%3Anull%2C%22quicParams%22%3Anull%7D&fp=firefox&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&security=reality&sid=0a6ba2716a409da6&sni=gateway.dzen-nl-1.com&type=tcp#Unknown
-trojan://BU4Sr6jWcc78Eh06srysDwhzc-Than@48.102.218.118:8443?fp=randomized&security=tls&sni=ru.federal-usa.com&type=tcp#Unknown
+vless://be139ef0-3768-409c-82d9-d759dbcb4458@50.7.221.219:443?encryption=none&mode=gun&pbk=8ENbaQRCWZk-wewSrdHq1_rVjJY4CrxqXUo_5vZNdi4&security=reality&serviceName=cdnsync.v2.Transfer&sid=b2b44805&sni=xn--80abgtcaqw1f.xn----9sbekcigdcaa6cd7cafr7e.xn--p1ai&type=grpc#Unknown
+vless://bc93a03d-13b5-0004-8ee7-d50c11459dab@195.252.179.56:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&security=reality&sid=1c3e8241a8743df9&sni=key-master-saver.com&type=tcp#Unknown
+vless://bc93a03d-13b5-0004-8ee7-d50c11459dab@109.106.15.99:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&security=reality&sid=1c3e8241a8743df9&sni=key-master-saver.com&type=raw#Unknown
+vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@178.248.236.229:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=_3mkK8SY6YVqws73SUVPKL77tzxDVNUt4ag9J9ec-D0&security=reality&sid=d05a120d3506d2cc&sni=144.hexdey.com&type=raw#Unknown
+vless://7316d881-eeec-429b-94f1-07585747f7c8@45.155.204.12:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=D0VJmmIifi3bUyMzYYNwEU0X28N4JK-jDAmCCf8hZEo&security=reality&sid=26e2b503fada0e3a&sni=web.belka.tv&type=tcp#Unknown
+vless://bc93a03d-13b5-000b-8ee7-d50c11459dab@169.40.34.53:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&security=reality&sid=1c3e8241a8743df9&sni=brointelengence.com&type=tcp#Unknown
+vless://37fc45b0-be4d-4920-a0f7-7389e406f5f3@83.141.93.80:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=TiKF_6UGMtWhgDiAGLsAtyYwyv-s3HxG6F0P9ltyf1U&security=reality&sid=8888265ef63fba6d&sni=newerson.online&type=raw#Unknown
+vless://2e80121c-31b2-423e-914f-f2a365aedfa1@217.60.19.173:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vNAFIncKncB2sVwrnakzopX-aUC5yzlLnwMmvim39zQ&security=reality&sid=b77fbbb5f86f53d2&sni=plos.growmart.site&type=tcp#Unknown
+vless://ffb2c504-2c6c-49f3-b4bd-9fd3ff6ce454@185.178.208.167:443?encryption=none&fp=firefox&host=tochkacdn.top&insecure=1&path=%2Fstatic%2Ftelemetry%2F3c9aaef00005%2F&security=tls&sni=unlik.club&type=ws#Unknown 
+vless://ffb2c504-2c6c-49f3-b4bd-9fd3ff6ce454@185.178.208.167:443?encryption=none&fp=chrome&host=tochkacdn.top&path=%2Fstatic%2Ftelemetry%2F3c9aaef00005%2F&security=tls&sni=unlik.club&type=ws#Unknown

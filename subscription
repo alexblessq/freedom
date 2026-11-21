@@ -25,3 +25,4 @@ hysteria2://7316d881-eeec-429b-94f1-07585747f7c8@177.202.73.181:443?sni=captcha.
 
 vless://0cd8a5a2-a6f2-4537-836e-7567a6adff0d@172.66.44.155:8443?type=ws&security=tls&fp=random&sni=sd4f45.pages.dev&path=%2F%3Fed%3D2048&host=sd4f45.pages.dev#🇸🇪 Sweden
 
+vless://be139ef0-3768-409c-82d9-d759dbcb4458@50.7.221.219:443?encryption=none&mode=gun&pbk=8ENbaQRCWZk-wewSrdHq1_rVjJY4CrxqXUo_5vZNdi4&security=reality&serviceName=cdnsync.v2.Transfer&sid=b2b44805&sni=xn--80abgtcaqw1f.xn----9sbekcigdcaa6cd7cafr7e.xn--p1ai&type=grpc#🇳🇱 Netherlands

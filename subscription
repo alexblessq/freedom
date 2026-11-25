@@ -10,16 +10,14 @@ happ://routing/onadd/eyJOYW1lIjoiUm9zY29tVlBOIFdoaXRlbGlzdCIsIkdsb2JhbFByb3h5Ijo
 #subscription-userinfo: total=0; download=0; upload=1072668082176;
 #announce: 🔄 Обновлено: 25.11 
 
-vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@2.26.27.146:443?flow=xtls-rprx-vision&type=tcp&security=reality&sni=hzkjm.klyck.online&pbk=pdyae3nJy_oGSKS6bcKDRujDmvcJuu31n6DOkVYvvlw&sid=635d40276db3b2de#🇫🇮 Finland
-
-vless://391a32c6-084c-4d61-8e8d-472678021dac@85.234.86.230:6443?type=grpc&security=reality&sni=download.amd.com&pbk=3PLiGB7-JrVgOon0cmuxYLf0rOhuVIooAgch7gB8zD8&sid=d7d3b7ffae8086ac&serviceName=/api/v1/update&mode=gun#🇪🇪 Estonia
-
-vless://391a32c6-084c-4d61-8e8d-472678021dac@13.143.189.174:6443?type=grpc&security=reality&fp=qq&sni=downloadmirror.intel.com&pbk=T_DB978NmE_RxqrscgvQl6vch18YDEAJY-uk7tBtBzY&sid=50831b4958b2643a&serviceName=/api/v1/update&mode=multi#🇵🇱 Poland
-vless://a38e3651-a36c-445d-87e1-336a7855edb4@13.143.198.140:443?type=grpc&security=reality&fp=firefox&sni=blg01.deflink.net&pbk=pqZCztpkaSLv6LDBXXoxYRCclCC85M7LfxEAg3-RDDI&sid=844ca9e88fa64958&serviceName=grpc-tunnel&mode=gun#🇵🇱 Poland
-
-vless://80b3cf20-c77c-4fb9-a69e-55c9dadd58c8@31.59.156.16:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=broe.primetap.cards&pbk=M102pOyYWWXO23uugneRjqRqc30SGQN1jIwCYg9STRE&sid=8acb6e79c1b29c4b#🇨🇦 Canada
-
 vless://0cd8a5a2-a6f2-4537-836e-7567a6adff0d@172.66.44.155:8443?type=ws&security=tls&fp=random&sni=sd4f45.pages.dev&path=%2F%3Fed%3D2048&host=sd4f45.pages.dev#🇸🇪 Sweden
 vless://0cd8a5a2-a6f2-4537-836e-7567a6adff0d@104.16.0.203:2087?type=ws&security=tls&fp=random&sni=sd4f45.pages.dev&path=%2F%3Fed%3D2048&host=sd4f45.pages.dev#🇸🇪 Sweden
 vless://0cd8a5a2-a6f2-4537-836e-7567a6adff0d@172.66.47.101:2053?type=ws&security=tls&fp=random&sni=sd4f45.pages.dev&path=%2F%3Fed%3D2048&host=sd4f45.pages.dev#🇸🇪 Sweden
 
+vless://b07af786-c4f0-000b-bda6-96d5d74e81df@194.164.235.78:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=koivupolku.com&pbk=gQrgSivePXr6oUtUo43F3Qig3wq-WsCMxabOxtTqzz8&sid=174e175dd50ea8c4#🇫🇮 Finland
+vless://b07af786-c4f0-4204-bda6-96d5d74e81df@188.214.32.50:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=rannarada.com&pbk=hdTZg2RzLdnnpNdkBqJWsl7WIJmK3qJ2fy-QjAwVZRI&sid=499e87ec81566169#🇪🇪 Estonia
+vless://b07af786-c4f0-0004-bda6-96d5d74e81df@194.164.235.78:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=koivupolku.com&pbk=gQrgSivePXr6oUtUo43F3Qig3wq-WsCMxabOxtTqzz8&sid=174e175dd50ea8c4#🇸🇪 Sweden
+vless://b07af786-c4f0-0007-bda6-96d5d74e81df@194.164.235.78:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=koivupolku.com&pbk=gQrgSivePXr6oUtUo43F3Qig3wq-WsCMxabOxtTqzz8&sid=174e175dd50ea8c4#🇳🇱 Netherlands
+vless://b07af786-c4f0-000e-bda6-96d5d74e81df@194.164.235.78:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=koivupolku.com&pbk=gQrgSivePXr6oUtUo43F3Qig3wq-WsCMxabOxtTqzz8&sid=174e175dd50ea8c4#🇩🇪 Germany
+vless://b07af786-c4f0-0005-bda6-96d5d74e81df@142.228.52.96:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=randomfox&sni=alataunotes.com&pbk=qmR_4JDrKbBt5AmESW9wcaoAmnAM-FtgjvxbQ39TvCU&sid=5e2f59e0311da8a4#🇫🇷 France
+vless://b07af786-c4f0-4204-bda6-96d5d74e81df@45.80.158.25:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=lindenpfad.com&pbk=sBkVhyPyBQ0LstVfmWYxKNzfTWgOniDGnMQqkMA1TyY&sid=9d20980a1de4ea9c#🇵🇱 Poland
